@@ -1,4 +1,4 @@
-name: Firt Demo Action
+name: First Demo Action
 on:
   push:
     branches:
